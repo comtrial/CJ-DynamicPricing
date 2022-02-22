@@ -1,7 +1,7 @@
 # cj_DynamicPricing_Project
 # Dynamic Pricing
 
-https://s3.us-west-2.amazonaws.com/secure.notion-static.com/703fdba3-2d06-42f5-bbe7-39ddf90d078c/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2021-10-18_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_5.27.25.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220222%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220222T062746Z&X-Amz-Expires=86400&X-Amz-Signature=6d15ee682ec8d1dbc27fed852ca065fc1a7863b4ee30ac647959f54e22a4f489&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA%25202021-10-18%2520%25E1%2584%258B%25E1%2585%25A9%25E1%2584%2592%25E1%2585%25AE%25205.27.25.png%22&x-id=GetObject
+<img width="573" alt="스크린샷_2021-10-18_오후_5 27 25" src="https://user-images.githubusercontent.com/67617819/155077563-d94d6263-bd51-45c3-8b94-c6d20cd17dd6.png">
 
 **① 주문 과제**
 
